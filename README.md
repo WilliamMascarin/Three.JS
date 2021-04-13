@@ -6,7 +6,8 @@ Demonstração do Three.js.
 Instalar o Node.Js: https://nodejs.org/en/download/ ;
 
 Three.Js Webpack Starter : 
-Pode ser feito o download por https://github.com/designcourse/threejs-webpack-starter ou git clone https://github.com/designcourse/threejs-webpack-starter.git threejs;
+Pode ser feito o download por: https://github.com/designcourse/threejs-webpack-starter 
+ou git clone https://github.com/designcourse/threejs-webpack-starter.git threejs;
 
 Feito o download, abra o terminal de preferência e execute os seguintes comandos.
 
