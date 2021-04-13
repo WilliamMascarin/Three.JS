@@ -1,19 +1,25 @@
 # Three.js
  
-Demonstração do Three.js
+Demonstração do Three.js.
 
 # Requisitos:
-Node.Js;
+Instalar o Node.Js: https://nodejs.org/en/download/ ;
 
 Three.Js Webpack Starter : 
 Pode ser feito o download por https://github.com/designcourse/threejs-webpack-starter ou git clone https://github.com/designcourse/threejs-webpack-starter.git threejs;
 
-# Feito o download, abra o terminal de preferência, acesse a pasta do download:
+Feito o download, abra o terminal de preferência.
 
+# Acesse a pasta do download:
 > cd threejs
-> npm i
+
+# Instala as dependências, somente na primeira vez.
+> npm install
 
 Será feito o download das dependências.
-Feito isso xecute no terminal 
+Feito isso execute no terminal.
 
+# Será criado um servidor local.
 > npm run dev
+
+Projeto será aberto no navegador.
