@@ -8,7 +8,7 @@ Instalar o Node.Js: https://nodejs.org/en/download/ ;
 Three.Js Webpack Starter : 
 Pode ser feito o download por https://github.com/designcourse/threejs-webpack-starter ou git clone https://github.com/designcourse/threejs-webpack-starter.git threejs;
 
-Feito o download, abra o terminal de preferência.
+Feito o download, abra o terminal de preferência e execute os seguintes comandos.
 
 # Acesse a pasta do download:
 > cd threejs
@@ -17,7 +17,6 @@ Feito o download, abra o terminal de preferência.
 > npm install
 
 Será feito o download das dependências.
-Feito isso execute no terminal.
 
 # Será criado um servidor local.
 > npm run dev
